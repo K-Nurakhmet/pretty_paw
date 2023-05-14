@@ -71,7 +71,7 @@
         background-position: center;
     }
 
-    @include lg {
+    @include xl {
       gap: 60px;
     }
   }
@@ -124,9 +124,6 @@
     @include lg {
       font-size: 52px;
     }
-  }
-
-  &__count-desc {
   }
 
   &__picture {
